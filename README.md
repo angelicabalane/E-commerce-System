@@ -36,7 +36,7 @@ Download the source code.
 Download Xampp and start Apache and MySQL. 
 Click admin in MySQL Control Panel and create a database. 
 Import the SQL file located in the database folderof the source code folder.
-Copy and paste the source code to the location where your love cal web server is accessing your local projects.
+Copy and paste the source code to the location where your local web server is accessing your local projects.
 
 
 Credentials to login:
